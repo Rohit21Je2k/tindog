@@ -131,6 +131,29 @@ h2 {
   padding: 3% 2%;
 }
 
+#cta{
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+#footer {
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.footer-logo {
+  padding: 3% 3%;
+}
+
 @media (max-width: 991px) {
    .image-home {
     position: static;
